@@ -10,4 +10,4 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I enjoy playing sports and watching live matches.
+⚡ Fun fact: I enjoy creating new software projects and solve coding challenges.
