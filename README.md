@@ -2,7 +2,7 @@
 
 👀 I’m interested in web development, software engineering, and coding challenges.
 
-🌱 I’m currently learning and exploring backend technologies like Node.js.
+🌱 Portfolio: https://stephenthangaraj-portfolio.netlify.app/.
 
 💞️ I’m looking to collaborate on open-source projects related to web development and building useful tools for developers.
 
