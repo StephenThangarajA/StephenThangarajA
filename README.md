@@ -2,7 +2,7 @@
 
 👀 I’m interested in web development, software engineering, and coding challenges.
 
-🌱 Portfolio: https://stephenthangaraj-portfolio.netlify.app/.
+🌱 Portfolio: https://stephenthangaraj.netlify.app.
 
 💞️ I’m looking to collaborate on open-source projects related to web development and building useful tools for developers.
 
