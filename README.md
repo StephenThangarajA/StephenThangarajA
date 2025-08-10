@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stephen Thangaraj A</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN Enthusiast | Tech Explorer</h3>
+<h3 align="center">🚀 Software Developer | Data Analyst | Tech Explorer</h3>
 
 <p align="center">
   <a href="https://github.com/StephenThangarajA">
@@ -12,7 +12,7 @@
 ## 🧑‍💻 About Me
 
 - 💼 Full-stack developer passionate about building scalable and user-friendly applications.
-- 🌱 Currently exploring **Next.js**, **TypeScript**, and **Cloud Deployments**.
+- 🌱 Currently exploring **Artifical Intelligence**, **Data Science**, and **Cloud Deployments**.
 - 💬 Ask me about **React, Node.js, Express, MongoDB, REST APIs**.
 - 🎯 2025 Goal: Contribute to **open-source** and launch my own SaaS product.
 - 📫 How to reach me: **stephenthangaraj14@gmail.com**
@@ -24,7 +24,7 @@
 <p align="left">
 <a href="mailto:stephenthangaraj14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://stephenthangaraj-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://stephenthangaraj.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
@@ -60,14 +60,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- **[Portfolio Website](https://stephenthangaraj-portfolio.netlify.app)** – Personal portfolio built with Next.js, deployed on Netlify.
-- **Premier League Predictor** – Full-stack prediction app using MERN stack.
-- **[More Projects](https://github.com/StephenThangarajA?tab=repositories)**
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License**.
@@ -78,5 +70,5 @@ This project is licensed under the **MIT License**.
 
 **Stephen Thangaraj A**  
 📧 Email: **stephenthangaraj14@gmail.com**  
-🌐 Portfolio: [Netlify Deployment](https://stephenthangaraj-portfolio.netlify.app)
+🌐 Portfolio:https://stephenthangaraj.netlify.app
 
